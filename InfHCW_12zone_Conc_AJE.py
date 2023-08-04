@@ -62,7 +62,7 @@ start_time = time.time() #time code started running
 
 ## DEFINE FILEPATH FOR EXPORTED CONTAM AIRFLOW SIMULATION RESULTS
 
-filepath = r"fullfilepath..\Contam_export_scripts_AJE\results3.csv"
+filepath = r"Contam_export_scripts_AJE/results3.csv"
 
 #outbreak parameters
 #quanta rate = quanta/min . person (as 0.5 quanta per min)
