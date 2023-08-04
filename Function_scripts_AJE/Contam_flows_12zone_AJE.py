@@ -50,21 +50,6 @@ n=17
 """ the aim of this nxn matrix, geometry(nxn), is to characterise the geometry
 of the zonal set-up and so if zone i is connected to zone j then entry 
 geometry[i,j]=1, if zone i is not connected to zone j then geometry[1,j]=0."""
- 
-
-#defined in such away that input should be [i,j] where i<j
-# geometry=np.zeros((n,n))
-# geometry[0,5]=1
-# geometry[1,7]=1
-# geometry[2,4]=1
-# geometry[3,4]=1
-# geometry[4,6]=1
-# geometry[5,6]=1
-# geometry[6,7]=1
-# geometry[6,8]=1
-# geometry[6,9]=1
-# geometry[7,10]=1
-# geometry[7,11]=1
 
 #@CH-block...................................................
 #defined in such away that input should be [i,j] where i<j
@@ -101,20 +86,6 @@ v_zonal = np.zeros(n)
 #for when volume is the same in each room
 #for i in range(n):
 #    v_zonal[i] = V
-#If volumes are different
-# v_zonal[0]=98.35
-# v_zonal[1]=98.35
-# v_zonal[2]=28.57
-# v_zonal[3]=28.57
-# v_zonal[4]=36.35
-# v_zonal[5]=31.74
-# v_zonal[6]=31.74
-# v_zonal[7]=31.74
-# v_zonal[8]=47.24
-# v_zonal[9]=50.46
-# v_zonal[10]=43.42
-# v_zonal[11]=46.94
-
 
 #kish
 v_zonal[0]=3
