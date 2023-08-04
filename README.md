@@ -1,5 +1,4 @@
 # MultiZone_CareHome
-# Care_homes_study_AJE 
 This repository contains the code and data to reproduce the research contained in the manuscript "Environmental Data Monitoring and Infection Risks in UK Care-homes in the Context of COVID-19"; Kishwer Abdul Khaliq, Sara Mohamad, Alexander J. Edwards, Catherine J. Noakes, Andrew H. Kemp, Carl Thompson, Grainne McGill, Tim Sharpe.
 The original code is taken from the research "A Mathematical Model for Assessing Transient Airborne Infection Risk in Hospital Ward"; Alexander J. Edwards, Lee Benson, Zeyu Guo, Martin Lopez-Garcia, Catherine J. Noakes, Daniel Peckham, Marco-Felipe King. 
 
