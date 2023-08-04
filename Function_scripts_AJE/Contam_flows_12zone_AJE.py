@@ -142,25 +142,7 @@ Q_zonal = np.zeros(n)
 #in order to lead to specific ACH rates - the ones used in this study have been
 #pre-calculated and including in  the commenting for each zone below.
 
-
-# Q_zonal[0]=4.91 #for 3ach= 4.91 #for1.5ach = 2.45 for 0.5ach = 0.81 #for 6ACH=9.82
-# Q_zonal[1]=4.91 #for 3ach=4.91 #for1.5ach = 2.45 for 0.5ach = 0.81 #for 6ACH=9.82
-# Q_zonal[2]=1.42 #for 3ach=1.42 #for1.5ach = 0.71 for 0.5ach = 0.23 #for 6ACH=2.84
-# Q_zonal[3]=1.42 #for 3ach=1.42 #for1.5ach = 0.71 for 0.5ach = 0.23 #for 6ACH=2.84
-# Q_zonal[4]=1.81 #for 3ach=1.81 #for1.5ach = 0.9 for 0.5ach = 0.3 #for 6ACH=3.62
-# Q_zonal[5]=1.59 #for 3ach=1.59 #for1.5ach = 0.795 for 0.5ach =0.265  #for 6ACH=3.18
-# Q_zonal[6]=1.59 #for 3ach=1.59 #for1.5ach = 0.795 for 0.5ach =0.265  #for 6ACH=3.18
-# Q_zonal[7]=1.59#for 3ach=1.59 #for1.5ach = 0.795 for 0.5ach =0.265  #for 6ACH=3.18
-# Q_zonal[8]=2.36 #for 3ach=2.36 #for1.5ach = 1.18 for 0.5ach = 0.4 #for 6ACH=4.72
-# Q_zonal[9]=2.52 #for 3ach=2.52 #for1.5ach = 1.26 for 0.5ach = 0.42 #for 6ACH=5.04
-# Q_zonal[10]=2.17 #for 3ach=2.17 #for1.5ach = 1.08 for 0.5ach = 0.36 #for 6ACH=4.34
-# Q_zonal[11]=2.32 #for 3ach=2.32 #for1.5ach = 1.16 for 0.5ach = 0.39 #for 6ACH=4.64
-# Q_zonal[12]=2.52 #for 3ach=2.52 #for1.5ach = 1.26 for 0.5ach = 0.42 #for 6ACH=5.04
-# Q_zonal[13]=2.17 #for 3ach=2.17 #for1.5ach = 1.08 for 0.5ach = 0.36 #for 6ACH=4.34
-# Q_zonal[14]=2.32 #for 3ach=2.32 #for1.5ach = 1.16 for 0.5ach = 0.39 #for 6ACH=4.64
-# Q_zonal[15]=2.52 #for 3ach=2.52 #for1.5ach = 1.26 for 0.5ach = 0.42 #for 6ACH=5.04
-# Q_zonal[16]=2.17 #for 3ach=2.17 #for1.5ach = 1.08 for 0.5ach = 0.36 #for 6ACH=4.34
-#........................................................@kish
+#........................................................
 Q_zonal[0]=0.16#0.15 #for 3ach= 4.91 #for1.5ach = 2.45 for 0.5ach = 0.81 #for 6ACH=9.82
 Q_zonal[1]=0.47#2.2 #for 3ach=4.91 #for1.5ach = 2.45 for 0.5ach = 0.81 #for 6ACH=9.82
 Q_zonal[2]=0.47#2.2 #for 3ach=1.42 #for1.5ach = 0.71 for 0.5ach = 0.23 #for 6ACH=2.84
